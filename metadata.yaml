@@ -1,0 +1,27 @@
+_repo: The-Review-Vol-1-No-6-June-1911_69086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2022-10-02'
+identifiers:
+  gutenberg: '69086'
+language: en
+pgterms:marc905: 20161102062807various
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: Franciszek Skawiński and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: United States :National Prisoners' Aid Association,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Review, Vol. 1, No. 6, June 1911
+url: http://www.gutenberg.org/ebooks/69086
